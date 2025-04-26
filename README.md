@@ -63,16 +63,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurOFagundes/arthurOFagundes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurOFagundes/arthurOFagundes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthurOFagundes/arthurOFagundes/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <a href="https://open.spotify.com/user/ixgfajj5yqemeiiepu4kagc83">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ixgfajj5yqemeiiepu4kagc83&count=5&unique=false" alt="Spotify recently played"  />
