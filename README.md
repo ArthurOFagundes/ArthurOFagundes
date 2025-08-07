@@ -53,20 +53,5 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmV4bW05NjIxcHU2dTdtdXV3dTUzdDNzejV0MWI0Zjg3bHJ4MmR6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ixgfajj5yqemeiiepu4kagc83">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ixgfajj5yqemeiiepu4kagc83&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
