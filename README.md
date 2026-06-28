@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Olá! Eu sou o Arthur! 📍 Passo Fundo, RS, Brasil 📚 23 anos, estudante de Ciência da Computação e apaixonado por tecnologia! 🚀 Explorando o universo do desenvolvimento com React.js, TypeScript e Node.js. 🌟 Amo aprender coisas novas e transformar ideias em código eficiente. 💻 Buscando sempre evoluir e contribuir com projetos incríveis!</p>
+<p align="left">✨ Olá! Eu sou o Arthur! 📍 Passo Fundo, RS, Brasil 📚, Bacharel em Ciência da Computação e apaixonado por tecnologia! 🚀 Explorando o universo do desenvolvimento com React.js, TypeScript e Node.js. 🌟 Amo aprender coisas novas e transformar ideias em código eficiente. 💻 Buscando sempre evoluir e contribuir com projetos incríveis!</p>
 
 ###
 
